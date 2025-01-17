@@ -1,2 +1,2 @@
-# to_do-project
-A very simple project. It is a To-Do List. 
+# A very simple To-Do List
+My first project uploaded to GitHub.
